@@ -12,7 +12,7 @@ const isOpen = ref(false);
         href="#home"
         class="text-2xl font-bold text-custom-arcade-primary hover:text-custom-arcade-secondary transition flex items-center"
       >
-        🎮 ArcadeHub
+        ArcadeHub
         <span
           class="text-xs bg-custom-arcade-accent text-custom-arcade-dark rounded px-2 py-1 ml-2"
         >
